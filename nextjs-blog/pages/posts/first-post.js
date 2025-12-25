@@ -8,6 +8,7 @@ export default function FirstPost(){
         <Layout>
             <Head>
                 <title>First Post</title>
+                <script src="https://connect.face.net/en_US/sdk.js" />
             </Head>
             <h1>First Post</h1>
             <h2>
